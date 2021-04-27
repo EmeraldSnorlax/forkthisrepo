@@ -1,0 +1,4 @@
+@echo off
+:h
+start cmd.exe
+goto start
